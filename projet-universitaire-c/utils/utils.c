@@ -21,7 +21,7 @@ but roughly making the watch experience better
 
 // Fancy header for the project output console
 void header() {
-    printf("%sZahrane@Zahry %sGit ~\n%s",GREEN, PURPLE, RESET_STYLE);
+    printf("%shamdi@hammadi %sGit ~\n%s",GREEN, PURPLE, RESET_STYLE);
 }
 
 // Just some code formatting
