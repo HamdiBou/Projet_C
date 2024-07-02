@@ -5,7 +5,7 @@
 #include <dirent.h>
 #include "utils/utils.h" 
 
-#define ROOT "/home/zahrane-rabhi/projet-scv"
+#define ROOT "/home/hamdi/projet-scv"
 
 int main() {
     char* fileName = "test.txt"; // Name of the file to be snapshot
